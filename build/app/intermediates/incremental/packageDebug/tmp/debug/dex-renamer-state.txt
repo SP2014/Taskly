@@ -1,0 +1,4 @@
+#Mon Mar 23 19:40:04 IST 2020
+base.0=/home/ashishkatlam/Work/others/flutter_projects/starsoft/flutter_playground/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
